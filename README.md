@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'am an german male Student at the EGE in Annaberg-Buchholz.
+
+I love to code in Python, NodeJS and Java.
+Right now I'am not workinh at amy public Project
+
 <!--
 **CodeGamer-dev/CodeGamer-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
